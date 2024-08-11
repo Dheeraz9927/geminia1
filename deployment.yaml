@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gemini-ai-app
-        image: gcr.io/mounika8036-426015/geminiai:latest
+        image: gcr.io/dheeraz-426015/geminiai:latest
         ports:
         - containerPort: 5000
         env:
